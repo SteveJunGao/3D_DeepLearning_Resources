@@ -4,5 +4,8 @@ Resources for 3D Deep Learning, we classify these resources according to their t
 This part will contain 3D classification, parsing, correspondence and segmentation.
 ## 3D-assisted image analysis (by Jun Gao)
 This part will contain cross-view image retrieval, intrinsic decomposition
+
+- 3D-Assisted Feature Synthesis for Novel Views of an Object [PDF](http://ieeexplore.ieee.org/document/7410664/) [code]
+
 ## 3D synthesis (by Fangyin Wei)
 This part will contain monocular 3D reconstruction, shape completion and shape modeling
