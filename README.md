@@ -1,5 +1,5 @@
 # 3D Deep Learning Code Resources
- ![update](https://img.shields.io/badge/Last update-09--06--2017-brightgreen.svg)
+ ![update](https://img.shields.io/badge/LastUpdate-09--06--2017-brightgreen.svg)
 
 In this repository we present open source codes for 3D Deep Learning available online. The purpose of this project is to make it convenient for anyone interested in deep learning of 3D models or scenes to find the corresponding code of a particular paper with a single search. Currently this page is maintained by [heiwang1997](https://github.com/heiwang1997), [SteveJunGao](https://github.com/SteveJunGao) and [Fangyin Wei](). All contributions are welcome.
 
